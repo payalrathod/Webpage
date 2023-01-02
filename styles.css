@@ -1,0 +1,11 @@
+/* .App {
+  font-family: sans-serif;
+  text-align: center;
+} */
+body {
+  background-color: #282c;
+  color: black;
+  padding: 40px;
+  font-family: Sans-Serif;
+  text-align: left;
+}
